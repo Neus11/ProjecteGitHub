@@ -1,1 +1,1 @@
-# ProjecteGitHub
+# git-exercici
